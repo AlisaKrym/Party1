@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border: 5px solid SkyBlue;
+    border-radius: 15px;
+    padding: 10px;
+
+}   
+
+header a {
+    text-decoration: none;
+    color: DodgerBlue;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+
+}
+
+h2 {
+    text-align: center;
+
+}
+
+footer {
+    background-color: skyblue;
+    border: 3px solid skyblue;
+    border-radius: 10px;
+
+}
+
+footer p {
+    background-color: white;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+nav {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    border: 3px solid skyblue;
+    border-radius: 10px;
+    background-color: skyblue;
+    margin: 8px;
+    padding: 6px;
+}
+
+ .imaf {
+    background-color: skyblue;
+    padding: 15px;
+    border-radius: 15px;
+}
